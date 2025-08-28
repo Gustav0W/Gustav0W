@@ -20,7 +20,7 @@ Alguns projetos que você pode ver aqui no meu GitHub:
 
 
 ## 📊 Estatísticas do GitHub
-![Gustav0w GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustav0w&show_icons=true&theme=radical)
+<!--![Gustav0w GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustav0w&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav0w&layout=compact&theme=radical)
 
