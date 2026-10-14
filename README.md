@@ -11,7 +11,7 @@ Me chamo **Gustavo Vieira Walter**
 - Curso FullStack 2025 — [Academia do Programador](https://github.com/academiadoprogramador-fullstack)
 - Professores: [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages)
 - Curso Sistemas de Informação 2024 - 2027 | UNIPLAC
-- **C++, Kotlin, C#, ASP.NET**  
+- **C++, Kotlin, C#, ASP.NET, Lua**  
 - **Banco de Dados SQL**  
 - **HTML, CSS e Git**  
 
