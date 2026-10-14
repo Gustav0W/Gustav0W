@@ -2,8 +2,8 @@
 Me chamo **Gustavo Vieira Walter**  
 
 ## ✈️Sobre mim
-- Tenho 20 anos e atualmente moro em **Lages-SC**  
-- Sonho em ser **programador** 💻  
+- Tenho 21 anos e atualmente moro em **Lages-SC**  
+- Sonho em ser um bom **programador** 💻 
 - Apaixonado por videogames 🎮  
 - Moro com meus avós ❤️  
 
@@ -14,6 +14,10 @@ Me chamo **Gustavo Vieira Walter**
 - **C++, Kotlin, C#, ASP.NET**  
 - **Banco de Dados SQL**  
 - **HTML, CSS e Git**  
+
+## 🏢 Trabalho
+- Fiquei 1 ano (2025-26) trabalhando na Echosis Marketing Digital como Auxiliar administrativo e Desenvolvedor
+- Atualmente (2026...) trabalho como colaborador no projeto do GLA 
 
 ## 🛠 Projetos
 Alguns projetos que você pode ver aqui no meu GitHub:
